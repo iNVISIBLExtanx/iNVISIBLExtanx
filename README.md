@@ -21,12 +21,12 @@ My edge: I come from a business and research background (M.Sc. Data Science, Tre
 
 ## Live Products
 
-| Product | What It Does | Impact |
+| Product | What It Does | Status |
 |---------|-------------|--------|
-| [**EduMark**](https://edu-mark-pied.vercel.app) | AI essay marking platform — replaces manual grading | Active deployment · 83 commits |
-| [**MedSim**](https://med-sim.vercel.app) | AI patient simulation for medical training (IEEE-grounded) | 30+ deployments · Patent Pending |
-| [**Reflectly**](https://reflectly-eta.vercel.app) | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · 100 commits |
-| [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning | $10K+ transactions processed |
+| [**EduMark AI**](https://edu-mark-zeta.vercel.app) | AI marking for Sri Lanka A/L curriculum — OCR, trilingual feedback (Sinhala/Tamil/English) | Live · 84 commits |
+| [**MedSim**](https://med-sim.vercel.app) | AI patient simulation for clinical training (IEEE-grounded) | Live · Patent Pending |
+| **Reflectly** | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · Not hosted |
+| [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning | Live · $10K+ transactions |
 
 ---
 
