@@ -25,7 +25,7 @@ My edge: I come from a business and research background (M.Sc. Data Science, Tre
 |---------|-------------|--------|
 | [**EduMark AI**](https://edu-mark-zeta.vercel.app) | AI marking for Sri Lanka A/L curriculum — OCR, trilingual feedback (Sinhala/Tamil/English) | Live · 84 commits |
 | [**MedSim**](https://med-sim.vercel.app) | AI patient simulation for clinical training (IEEE-grounded) | Live · Patent Pending |
-| **Reflectly** | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · Not hosted |
+| **Reflectly**(https://github.com/iNVISIBLExtanx/reflectly) | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · Not hosted |
 | [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning | Live · $10K+ transactions |
 
 ---
@@ -76,6 +76,6 @@ Typical engagements:
 
 If you're a business owner or operator looking to cut operational costs, automate knowledge work, or build an AI-powered internal tool — I'd like to hear about your problem.
 
-**Email:** manodhya@clazy.online
+**Email:** mopallage@gmail.com
 **LinkedIn:** [linkedin.com/in/manodhya-opallage](https://linkedin.com/in/manodhya-opallage)
 **Based in:** Colombo, Sri Lanka · Available for North American & Australian clients
