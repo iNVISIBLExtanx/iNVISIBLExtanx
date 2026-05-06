@@ -19,14 +19,13 @@ My edge: I come from a business and research background (M.Sc. Data Science, Tre
 
 ---
 
-## Live Products
+## Selected Live Products
 
 | Product | What It Does | Status |
 |---------|-------------|--------|
 | [**EduMark AI**](https://github.com/iNVISIBLExtanx/EduMark) | AI marking for Sri Lanka A/L curriculum — OCR, trilingual feedback (Sinhala/Tamil/English) | Live · 86 commits |
-| [**MedSim**](https://github.com/iNVISIBLExtanx/MedSim) | AI patient simulation for clinical training (IEEE-grounded) | Live · Patent Pending |
 | [**Reflectly**](https://github.com/iNVISIBLExtanx/reflectly) | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · Not hosted |
-| [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning | Live · $10K+ transactions |
+| [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning | Live · 100+ users |
 
 ---
 
