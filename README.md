@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manodhya-opallage)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mopallage@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Clazy.online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clazy.online)
 
 </div>
 
@@ -25,7 +24,7 @@ My edge: I come from a business and research background (M.Sc. Data Science, Tre
 |---------|-------------|--------|
 | [**EduMark AI**](https://github.com/iNVISIBLExtanx/EduMark) | AI marking for Sri Lanka A/L curriculum — OCR, trilingual feedback (Sinhala/Tamil/English) | Live · 86 commits |
 | [**Reflectly**](https://github.com/iNVISIBLExtanx/reflectly) | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · Not hosted |
-| [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning | Live · 100+ users |
+| [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning |
 
 ---
 
@@ -60,7 +59,7 @@ Typical engagements:
 - M.Sc. Data Science — Trent University, Canada (GPA: 91.5%)
 - IEEE Published — AI-based medical simulation system
 - Patent Pending — NLP-powered adaptive assessment system
-- Lecturer — University of Colombo (Full-Stack Development)
+- Lecturer — University of Colombo (Full-Stack Development) and Postgraduate Institute of Medicine
 
 ---
 
