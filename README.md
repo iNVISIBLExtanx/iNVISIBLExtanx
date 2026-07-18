@@ -74,6 +74,6 @@ Typical engagements:
 
 If you're a business owner or operator looking to cut operational costs, automate knowledge work, or build an AI-powered internal tool — I'd like to hear about your problem.
 
-**Email:** manodhya@clazy.online
+**Email:** mopallage@gmail.com
 **LinkedIn:** [linkedin.com/in/manodhya-opallage](https://linkedin.com/in/manodhya-opallage)
 **Based in:** Colombo, Sri Lanka · Available for North American & Australian clients
