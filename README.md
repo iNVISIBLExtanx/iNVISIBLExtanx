@@ -22,7 +22,7 @@ My edge: I come from a business and research background (M.Sc. Data Science, Tre
 
 | Product | What It Does | Status |
 |---------|-------------|--------|
-| [**MedSim**]([https://clazy.online](https://medsim-gamma.vercel.app/)) | AI Patient Simulation for Medical Training | Live | 
+| [**MedSim**](https://medsim-gamma.vercel.app/) | AI Patient Simulation for Medical Training | Live | 
 | [**EduMark AI**](https://github.com/iNVISIBLExtanx/EduMark) | AI marking for Sri Lanka A/L curriculum — OCR, trilingual feedback (Sinhala/Tamil/English) | Live · 86 commits |
 | [**Reflectly**](https://github.com/iNVISIBLExtanx/reflectly) | Emotional journaling with LLM + GNN-based mood analysis | Research prototype · Not hosted |
 | [**Clazy**](https://clazy.online) | EdTech platform — tutors, students, AI-assisted learning |
